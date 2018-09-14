@@ -1,4 +1,4 @@
-package com.geral.comsciexploration.algorithms.junit5learning;
+package com.gerald.comsciexploration.junit5learning;
 
 import static org.hamcrest.CoreMatchers.equalTo;
 import static org.hamcrest.CoreMatchers.is;
