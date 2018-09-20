@@ -1,4 +1,4 @@
-package com.gerald.comsciexploration.challenges;
+package com.gerald.comsciexploration.algorithms.linkedlist;
 
 public class CellUtils {
 
